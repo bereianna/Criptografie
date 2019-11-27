@@ -1,0 +1,10 @@
+D:\Documents\Panni\universirate\II sem I\Oros\handbookWFA\bin\Debug\handbookWFA.exe.config
+D:\Documents\Panni\universirate\II sem I\Oros\handbookWFA\bin\Debug\handbookWFA.exe
+D:\Documents\Panni\universirate\II sem I\Oros\handbookWFA\bin\Debug\handbookWFA.pdb
+D:\Documents\Panni\universirate\II sem I\Oros\handbookWFA\obj\Debug\handbookWFA.Form1.resources
+D:\Documents\Panni\universirate\II sem I\Oros\handbookWFA\obj\Debug\handbookWFA.Properties.Resources.resources
+D:\Documents\Panni\universirate\II sem I\Oros\handbookWFA\obj\Debug\handbookWFA.csproj.GenerateResource.cache
+D:\Documents\Panni\universirate\II sem I\Oros\handbookWFA\obj\Debug\handbookWFA.csproj.CoreCompileInputs.cache
+D:\Documents\Panni\universirate\II sem I\Oros\handbookWFA\obj\Debug\handbookWFA.exe
+D:\Documents\Panni\universirate\II sem I\Oros\handbookWFA\obj\Debug\handbookWFA.pdb
+D:\Documents\Panni\universirate\II sem I\Oros\handbookWFA\obj\Debug\handbookWFA.csprojAssemblyReference.cache
